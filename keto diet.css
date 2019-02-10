@@ -1,0 +1,57 @@
+.tab{
+     padding: 20px 10px 0px 10px;
+    font-family: 'Segoe UI';
+    font-weight: 300;
+ }
+ .heading{
+    font-size: 2.5rem;
+    font-weight: 100;
+ }
+ .sub{
+    font-weight: 100;
+    font-family: 'Segoe UI';
+    letter-spacing: 0.2rem
+ }
+ .header{
+    background-color:ghostwhite;
+    width:93%;
+    padding: 25px;
+    margin: -15px 25px 25px 25px;
+    position: fixed;
+   }
+ .top{
+     background-image: url("apricot-background-berry-1028599.jpg");
+    background-size: cover;
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+  background-repeat: no-repeat;
+
+ }
+  body{
+     margin: 0%;
+     padding: 0%;
+     align-content: center;
+ }
+ .welcome{
+   
+    font-size: 4rem;
+    height: 500px;
+    padding: 400px 0px 0px 200px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+ }
+ .info{
+    font-size: 1.5rem;
+    font-weight: 100;
+ }
+ .button{
+     border: 2px solid black;
+     padding: 1% 2% 1% 2%;
+     text-decoration: none;
+     cursor: pointer;
+     background-color: white;
+     opacity: 0.5;
+     border-color: black;
+
+ }
